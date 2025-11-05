@@ -1,0 +1,3410 @@
+<meta charset='UTF-8'><table border='1'><tr>
+        <th>Codigo o Serial</th>
+        <th>Tipo de Bienes</th>
+        <th>Ubicacion</th>
+        <th>Unidad Adscrita</th> <!-- Añadir Unidad Adscrita -->
+        <th>Estatus</th>
+        <th>Observacion</th>
+    </tr><tr>
+                <td>102157</td>
+                <td>CENTRAL TELEFONICA, MARCA PANASONIC, MODELO 308 ESAPHONE, S:/4BBVE034397</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>1187</td>
+                <td>PIZARRA MAGNETICA CON MARCOS DE ALUMINIO Y FONDO VERDE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>12024</td>
+                <td>GABINETE BEIGE DOS PUERTAS METALICO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION RRHH</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>12051</td>
+                <td>ESCRITORIO EJECUTIVO MARCA: MADECOR COLOR BEIGE MODEL 4 GAVETAS </td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>12055</td>
+                <td>MESA TRES ESCAÑOS COLOR BEIGE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION RECEPCION</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>1212</td>
+                <td>x</td>
+                <td>DIRECCIÓN GENERAL DE ADMINISTRACIÓN</td>
+                <td>x</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>x</td>
+            </tr><tr>
+                <td>121212</td>
+                <td>&quot;</td>
+                <td>DIRECCIÓN GENERAL DE CONTABILIDAD</td>
+                <td>12</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td>x</td>
+            </tr><tr>
+                <td>12121212</td>
+                <td>x</td>
+                <td>DIRECCIÓN GENERAL DE INFRAESTRUCTURA INTERNA Y TRANSPORTE</td>
+                <td>&quot;</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td>x</td>
+            </tr><tr>
+                <td>1212121212</td>
+                <td>&amp;</td>
+                <td>DIRECCIÓN GENERAL DE ADMINISTRACIÓN</td>
+                <td>&amp;</td> <!-- Añadir Unidad Adscrita -->
+                <td>Traslado</td>
+                <td>dd</td>
+            </tr><tr>
+                <td>1212121212121212</td>
+                <td>$</td>
+                <td>DIRECCIÓN GENERAL DE CONTABILIDAD</td>
+                <td>xxx</td> <!-- Añadir Unidad Adscrita -->
+                <td>Traslado</td>
+                <td>xxx</td>
+            </tr><tr>
+                <td>124746</td>
+                <td>REGULADOR DE VOLTAJE CDP</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>124959</td>
+                <td>APC REGULADORES DE CORRIENTE </td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>126012</td>
+                <td>APC REGULADORES DE CORRIENTE </td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>1275</td>
+                <td>ESTANTE METALICO COLOR BEIGE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>133205</td>
+                <td>CESTO DE BASURA COLOR PLATEADO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>133590</td>
+                <td>SILLA SECRETARIAL COLOR AZUL</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>134477</td>
+                <td>SILLA SECRETARIAL TAPIZADA COLOR GRIS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION RRHH</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>134932</td>
+                <td>PUESTO DE TRABAJO EN FORMICA C/BEIGE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>135449</td>
+                <td>ARTURITO NEGRO DE 3 GAVETAS </td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136500</td>
+                <td>PUESTO DE TRABAJO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DESARROLLO WEB</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136501</td>
+                <td>ARURITO 2 GAVETAS COLOR MADERA PINO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DESARROLLO WEB</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136502</td>
+                <td>PUESTO DE TRABAJO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DESARROLLO WEB</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136503</td>
+                <td>ARTURITO 2 GAVETAS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136507</td>
+                <td>SILLA SECRETARIA COLOR GRIS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION RRHH</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136508</td>
+                <td>PUESTO DE TRABAJO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DESARROLLO WEB</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136511</td>
+                <td>FILTRO DE AGUA C/BLANCO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136513</td>
+                <td>SILLA FIJA SECRETARIAL TAPIZADA EN TELA C/GRIS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136514</td>
+                <td>ESCRITORIO PUESTO DE TRABAJO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION PENELOPE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136515</td>
+                <td>PUESTOS D TRABAJO (TABLA)EN FORMICA COLOR BEIGE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136517</td>
+                <td>SILLA NEGRA SIN RUEDAS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136519</td>
+                <td>GUILLOTINA-MARCA BOSTON</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION RRHH</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136520</td>
+                <td>ARTURITO 2 GAVETAS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION RECEPCION</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136521</td>
+                <td>ARTURITO CON DOS  (02) GAVETAS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION RRHH</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136522</td>
+                <td>ARTURITO 2 GAVETAS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136523</td>
+                <td>PUESTO DE TRABAJO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION RECEPCION</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136525</td>
+                <td>SILLA SECRETARIAL TAPIZADA COLOR GRIS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION RRHH</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136526</td>
+                <td>SILLA SECRETARIAL COLOR GRIS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION PENELOPE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136527</td>
+                <td>ESCRITORIO 1 PUESTO DE TRABAJO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136529</td>
+                <td>MESA DE TRABAJO COLOR: BEIGE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136530</td>
+                <td>PUESTO DE TRABAJO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DESARROLLO WEB</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136531</td>
+                <td>SILLA SECRETARIAL TAPIZADA COLOR GRIS </td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION RRHH</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136533</td>
+                <td>PUESTO DE TRABAJO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DESARROLLO WEB</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136535</td>
+                <td>PUESTO DE TRABAJO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DESARROLLO WEB</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136536</td>
+                <td>ARTURITO 2 GAVETAS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136537</td>
+                <td>SILLA EJECUTIVA TAPIZADO COLOR GRIS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DESARROLLO WEB</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136537</td>
+                <td>ARURITO 2 GAVETAS COLOR MADERA PINO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DESARROLLO WEB</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136538</td>
+                <td>SILLA SECRETARIAL TAPIZADA EN TELA C/GRIS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136539</td>
+                <td>SILLA SECRETARIA COLOR GRIS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>RRHH SRA JANETH</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136540</td>
+                <td>ESCRITORIO-PUESTO DE TRABAJO </td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136540</td>
+                <td>GABINETE AEREO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136541</td>
+                <td>ESTANTE AEREO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DESARROLLO WEB</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136541</td>
+                <td>ESCRITORIO-PUESTO DE TRABAJO </td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136542</td>
+                <td>SILLA SECRETARIA COLOR GRIS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION RECEPCION</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136543</td>
+                <td>PUESTO DE TRABAJO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DESARROLLO WEB</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136546</td>
+                <td>PUESTO DE TRABAJO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DESARROLLO WEB</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136547</td>
+                <td>SILLA EJECUTIVA TAPIZADO COLOR GRIS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DESARROLLO WEB</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136550</td>
+                <td>SILLA EJECUTIVA TAPIZADO COLOR AZUL</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DESARROLLO WEB</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136552</td>
+                <td>SILLA SECRETARIAL TAPIZADA EN TELA C/GRIS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136553</td>
+                <td>ARURITO 2 GAVETAS COLOR MADERA PINO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DESARROLLO WEB</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136555</td>
+                <td>GABINETE 2 PUERTAS COLOR MADERA</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136557</td>
+                <td>ARTURITO 2 GAVETAS COLOR BEIGE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136558</td>
+                <td>ARTURITO 2 GAVETAS COLOR BEIGE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136559</td>
+                <td>SILLA SECRETARIAL TAPIZADA EN TELA C/GRIS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136560</td>
+                <td>GAVETERO 2 PUERTAS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION PENELOPE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136562</td>
+                <td>ARTURITO 2 GAVETAS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136564</td>
+                <td>ESCRITORIO 1 PUESTO DE TRABAJO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136565</td>
+                <td>SILLA EJECUTIVA TAPIZADO COLOR GRIS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DESARROLLO WEB</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136569</td>
+                <td>FLIPPER  COLOR BEIGE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136571</td>
+                <td>ARTURITO CON DOS  (02) GAVETAS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION RRHH</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136572</td>
+                <td>SILLA SECRETARIAL TAPIZADA EN TELA </td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136575</td>
+                <td>FLIPPER  COLOR BEIGE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136576</td>
+                <td>ARTUTITO COLOR: BEIGE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136578</td>
+                <td>MESA CUADRADA COLOR MADERA</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION RRHH</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136581</td>
+                <td>SILLA GIRATORIA COLOR: AZUL OSCURO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136583</td>
+                <td>FLIPPER  COLOR BEIGE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136587</td>
+                <td>SILLA EJECUTIVA TAPIZADO COLOR GRIS ERROR ESTA COMO 13587</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DESARROLLO WEB</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136588</td>
+                <td>ARTURITO COLOR: BEIGE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136589</td>
+                <td>ARTURITO EN FORMICA C/BEIGE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136590</td>
+                <td>ARTURITO 2 GAVETAS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION PENELOPE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136593</td>
+                <td>FLIPER EN FORMICA C/BEIGE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136594</td>
+                <td>SILLA SECRETARIAL TAPIZADA EN TELA C/GRIS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136598</td>
+                <td>ARTURITO COLOR: BEIGE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136602</td>
+                <td>ARTUTITO COLOR: BEIGE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136603</td>
+                <td>ESTACION  DE TRABAJO COLOR BEIGE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136603</td>
+                <td>FLIPPER EN FORMICA C/BEIGE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136608</td>
+                <td>CARTELERA ACRILICA  </td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION RECEPCION</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136609</td>
+                <td>ARTURITO 2 GAVETAS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136611</td>
+                <td>MESA DE TRABAJO COLOR: BEIGE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136612</td>
+                <td>FLIPPER  COLOR BEIGE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136620</td>
+                <td>SILLA EJECUTIVA TAPIZADO COLOR GRIS ERROR ES 136620</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DESARROLLO WEB</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136621</td>
+                <td>PUESTO DE TRABAJO EN FORMICA C/BEIGE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136622</td>
+                <td>PUESTO DE TRABAJO EN FORMICA C/BEIGE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136623</td>
+                <td>SILLA SECRETARIAL TAPIZADA EN TELA C/GRIS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136624</td>
+                <td>SILLA SECRETARIAL TAPIZADA EN TELA C/GRIS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136634</td>
+                <td>SWITCH MARCA LAMPRO, MODELO LP- SW 1600 S/: SW160011A00605</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136634</td>
+                <td>SWITCH MARCA D- LINK, MODELO DEST 1024D S/: F30F264001130</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136635</td>
+                <td>ARTURITO COLOR: BEIGE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136638</td>
+                <td>MESA DE TRABAJO COLOR: MARRON</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136643</td>
+                <td>ARURITO 2 GAVETAS COLOR MADERA PINO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DESARROLLO WEB</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136648</td>
+                <td>CARTELERA EN FIELTRO COLOR AZUL Y MARCO DE METAL</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136655</td>
+                <td>RECEPTOR DE FIBRA OPTICA MARCA SIEMON</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136656</td>
+                <td>SWITCH MARCA D- LINK, MODELO DEST 1024D S/: F30F264001013</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136657</td>
+                <td>SWITCH MARCA D- LINK, MODELO DEST 1024D S/: F30F264000043</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136658</td>
+                <td>RECEPTOR DE FIBRA OPTICA MARCA SIEMON</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136659</td>
+                <td>CENTRAL TELEFONICA, MARCA PANASONIC, MODELO KX- TES824</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136660</td>
+                <td>CENTRAL TELEFONICA, MARCA PANASONIC, MODELO KX- TES824</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136661</td>
+                <td>RECEPTOR DE FIBRA OPTICA MARCA SIEMON</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136661</td>
+                <td>SWITCH MARCA D- LINK, MODELO DEST 1024D S/: F30F2264000161</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136663</td>
+                <td>CENTRAL TELEFONICA SIEMENS HIPATH 3600</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136667</td>
+                <td>RECEPTOR DE FIBRA OPTICA MARCA SIEMON</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>136668</td>
+                <td>SWITCH MARCA D- LINK, MODELO DEST 1024D S/: F30F264001038</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td>UBICADO AGROALIMENTARIO PISO1</td>
+            </tr><tr>
+                <td>136668</td>
+                <td>SWITCH MARCA D- LINK, MODELO DEST 1024D S/: F30F264001038</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td>UBICADO AGROALIMENTARIO PISO1</td>
+            </tr><tr>
+                <td>136668</td>
+                <td>SWITCH MARCA D- LINK, MODELO DEST 1024D S/: F30F264001038</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td>UBICADO AGROALIMENTARIO PISO1</td>
+            </tr><tr>
+                <td>136669</td>
+                <td>RACK LANPRO 42 U</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>139900</td>
+                <td>RELOJ DE TARJETAS COLOR BEIGE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION RECEPCION</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>142723</td>
+                <td>FLIPER EN FORMICA C/AZUL</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>1440</td>
+                <td>ARCHIVO DE METAL CUATRO (04) GAVETAS COLOR BEIGE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION RRHH</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>146270</td>
+                <td>SILLA EJECUTIVA TAPIZADO COLOR AZUL</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DESARROLLO WEB</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>146587</td>
+                <td>NEVERA EJECUTIVA </td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DESARROLLO WEB</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>146597</td>
+                <td>NEVERA EJECUTIVA PREMIUN</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>149888</td>
+                <td>SOPLADORA DE AIRE COLOR GRIS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>155465</td>
+                <td>ARCHIVO DE METAL CUATRO (04) GAVETAS COLOR GRIS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION RRHH</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>157078</td>
+                <td>SILLA</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION PENELOPE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>166508</td>
+                <td>SILLA EJECUTIVA TAPIZADO COLOR GRIS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DESARROLLO WEB</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>166590</td>
+                <td>ARTURITO CON DOS  (02) GAVETAS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION RRHH</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>166619</td>
+                <td>SILLA EJECUTIVA TAPIZADO COLOR GRIS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DESARROLLO WEB</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>17137</td>
+                <td>ARCHIVO COLOR BEIGE CON DOS GAVETAS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION RRHH</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>196291</td>
+                <td>ESCRITORIO SECRETARIAL COLOR MARRON CLARO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>19685</td>
+                <td>ESTANTE VERTICAL 4 PELDAÑOS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>204087</td>
+                <td>SWITCH MARCA TP- LINK, MODELO TL- SF1024, S/: 11C77600607</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>205866</td>
+                <td>IMPRESORA HP MODELO 2515</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>207059</td>
+                <td>REGULADOR DE VOLTAJE COLOR NEGRO MARCA COMPUCOR</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>207327</td>
+                <td>SERVIDOR SUPERMICRO </td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>207360</td>
+                <td>ASIENTO MODULAR METAL 3 PUESTOS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION RECEPCION</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>208029</td>
+                <td>REGULADOR DE VOLTAJE-MARCA KODE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DEPOSITO TELEFONIA</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>208599</td>
+                <td>IMPRESORA MARCA CANON MODELO  IMAGE RUNNER 1025J </td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION RRHH</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>211677</td>
+                <td>MONITOR VIT-MOD TFT19W80PS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION RRHH</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>211683</td>
+                <td>MONITOR LENOVO 17&quot;</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>211703</td>
+                <td>MONITOR LENOVO 17&quot;</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>211776</td>
+                <td>AIRE ACONDICIONADO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>213380</td>
+                <td>CPU VIT MOD: 2600  S:/000031490  C/NEGRO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>213388</td>
+                <td>CPU MARCA VIT 2600 S/: A000031389</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>PRESTAMO EDUCACION 23/05/25</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>213389</td>
+                <td>MONITOR MARCA: VIT, MODELO: 2600 </td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>213406</td>
+                <td>CPU MARCA VIT 2600 S/: A000037753</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION RRHH</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>213416</td>
+                <td>MONITOR VIT TFT19W8OPS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>213523</td>
+                <td>MONITOR VIT TFT19W8OPS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>213579</td>
+                <td>MONITOR VIT TFT19W8OPS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>213628</td>
+                <td>CPU VIT MOD:2600  S:/A000037696  C/NEGRO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>213629</td>
+                <td>MONITOR VIT MOD: 2600 S:/638A9BA000327  C/NEGRO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>213646</td>
+                <td>CPU VIT MODELO 2600</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>213647</td>
+                <td>MONITOR MARCA: VIT COLOR NEGRO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>213648</td>
+                <td>CPU VIT MODELO 2600</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>213671</td>
+                <td>MONITOR VIT TFT19W8OPS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>213673</td>
+                <td>MONITOR VIT TFT19W8OPS SERIAL BA006076</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>213677</td>
+                <td>MONITOR VIT TFT19W8OPS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>213694</td>
+                <td>MONITOR VIT TFT19W8OPS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>213697</td>
+                <td>MONITOR VIT TFT19W8OPS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>213798</td>
+                <td>CPU VIT 2600 COLOR NEGRO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>213816</td>
+                <td>CPU MARCA: VIT, MODELO: 2600</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>213888</td>
+                <td>CPU MARCA: VIT, COLOR NEGRO MODELO: 2600</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>214160</td>
+                <td>MONITOR VIT TFT19W8OPS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>214207</td>
+                <td>REGULADOR NEGRO MARCA FORZA</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>214252</td>
+                <td>REGULADOR DE VOLTAJE -MRCA FORZA</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION RRHH SRA JANETH</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>214297</td>
+                <td>REGULADOR MARCA: FORZA COLOR NEGRO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>214305</td>
+                <td>REGULADOR MARCA FORZA</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>214323</td>
+                <td>REGULADOR DE VOTAJE- MARCA FORZA SERIAL 9348</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>214468</td>
+                <td>REGULADOR FORZA</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>214682</td>
+                <td>SILLA EJECUTIVA TAPIZADO COLOR GRIS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DESARROLLO WEB</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>214721</td>
+                <td>SILLA EJECUTIVA TAPIZADO COLOR GRIS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DESARROLLO WEB</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>214733</td>
+                <td>SILLA SECRETARIAL TAPIZADA EN TELA C/GRIS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>214793</td>
+                <td>ARTURITO EN FORMICA C/BEIGE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>214802</td>
+                <td>ARTURITO EN FORMICA C/BEIGE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>215667</td>
+                <td>MONITOR VIT TFT19W8OPS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>215674</td>
+                <td>CPU VIT MOD: 2600  S:/A000044667  C/NEGRO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>215689</td>
+                <td>MONITOR VIT  MOD: TFT19W80PS  S:/77BA4BA008194  C/NEGRO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>216158</td>
+                <td>RACK LANPRO 42 U</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>216159</td>
+                <td>RACK LANPRO 42 U</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>216160</td>
+                <td>RACK LANPRO 42 U</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>216161</td>
+                <td>RACK LANPRO 42 U</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>216162</td>
+                <td>RACK LANPRO 42 U</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>216162</td>
+                <td>RACK LANPRO 42 U</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>219431</td>
+                <td>FILTRO DE AGUA AVANTI  S:/ A47822236021151000494 C/BLANCO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>219445</td>
+                <td>SERVIDOR PROLIANT HP ML 110 G7</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES /NS2</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>219446</td>
+                <td>SERVIDOR PROLIANT HP ML 110 G7</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES / NS1</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>219447</td>
+                <td>SERVIDOR PROLIANT HP ML 110 G7</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>221059</td>
+                <td>REGULADOR DE VOLTAJE OMEGA</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>223793</td>
+                <td>MONITOR VIT MODELO TFT20WW9PSI</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>223797</td>
+                <td>MONITOR VIT MODELO TFT20WW9PSI</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>223802</td>
+                <td>CPU MARCA: VIT, MODELO: E2220-01</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td>zzz</td>
+            </tr><tr>
+                <td>223803</td>
+                <td>MONITOR MARCA: VIT, MODELO: 2600</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>223804</td>
+                <td>CPU VIT MODELO E2220-01</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>223804</td>
+                <td>CPU VIT MOD: E2230-01  S:/A0000797548  C/NEGRO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION PENELOPE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>223805</td>
+                <td>MONITOR VIT  MOD: TFT19W80PS   S:/FSEF5HA068910   C/NEGRO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>223807</td>
+                <td>MONITOR VIT MODELO TFT20WW9PSI</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>223808</td>
+                <td>CPU VIT MODELO E2220-01</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>223809</td>
+                <td>MONITOR VIT MODELO TFT20WW9PSI</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>22381</td>
+                <td>MONITOR MARCA: VIT</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION PENELOPE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>223810</td>
+                <td>CPU VIT MODELO E2220-01</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION RRHH JANETH</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>223811</td>
+                <td>MONITOR MARCA: VIT</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>223812</td>
+                <td>CPU VIT MODELO E2220-01</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>223813</td>
+                <td>MONITOR VIT MOD: TFT20W90PS1</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION PENELOPE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>223814</td>
+                <td>CPU VIT MODELO E2220-01</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION RRHH IMPRESORA</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>223815</td>
+                <td>MONITOR VIT MODELO TFT20WW9PSI</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION PENELOPE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td>X</td>
+            </tr><tr>
+                <td>223816</td>
+                <td>CPU VIT MODELO E2220-01</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>223827</td>
+                <td>MONITOR VIT MODELO TFT20WW9PSI</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>223828</td>
+                <td>CPU VIT MODELO E2220-01 BE 223827 ERROR TRASNCRIPCION</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>225019</td>
+                <td>UPS AB ARPLUS3002 SERIAL 9AAD0009</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>225087</td>
+                <td>SWITCH  HUAWEI QUIDWAY S5100</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES/ TELEFONIA</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>225088</td>
+                <td>SWITCH  HUAWEI QUIDWAY S5100</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES/ TELEFONIA </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>230011</td>
+                <td>CPU CLON</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>230012</td>
+                <td>CPU CLON </td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION PENELOPE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>230013</td>
+                <td>CPU CLON</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DESARROLLO WINYER</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>230014</td>
+                <td>CPU CLON ALEXA</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>230020</td>
+                <td>SWITCH TPLINK TL-SG1048</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>230036</td>
+                <td>MONITOR 20&quot; ACER </td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>230040</td>
+                <td>MONITOR 20 ACER&quot;</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION RRHH NOHEMI</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>230041</td>
+                <td>MONITOR 20&quot; HACER ALEXA</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>230043</td>
+                <td>MONITOR 20 ACER </td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION SALA 1X10</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>230048</td>
+                <td>MONITOR 20&quot; ACER</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>230061</td>
+                <td>PROTECCTOR DE CORRIETE ARAWAK</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION PENELOPE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>230064</td>
+                <td>REGULADOR ARAWAK 6 TOMAS </td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>230077</td>
+                <td>REGULADOR ARAWAK 6 TOMAS </td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DAÑADO EN TELEFONIA</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>230078</td>
+                <td>REGULADOR ARAWAK 6 TOMAS CARLOS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>230080</td>
+                <td>REGULADOR ARAWAK 6 TOMAS </td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>230087</td>
+                <td>REGULADOR ARAWAK 6 TOMAS </td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DAÑADO EN TELEFONIA</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>230100</td>
+                <td>REGULADOR ARAWAK 6 TOMAS JHORMEL</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>230101</td>
+                <td>REGULADOR ARAWAK 6 TOMAS </td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION RRHH NOHEMI</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>230110</td>
+                <td>SWITCH  CISCO SG 200-26</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>REDES LIBRE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>230111</td>
+                <td>SWITCH  CISCO SG 95-24</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>REDES LIBRE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>230112</td>
+                <td>SWITCH TPLINK TL-SG1024</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE TECNICO</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>230114</td>
+                <td>REGULADOR ARAWAK 6 TOMAS </td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DAÑADO EN TELEFONIA</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>230115</td>
+                <td>SERVIDOR HP ML 360 SERIAL MXQ52902GR </td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES / APP/SIRH</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>230116</td>
+                <td>SERVIDOR HP ML 360 SERIAL </td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES /  AFC/ APP</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>230117</td>
+                <td>SWITCH  TPLINK TL-SG3452</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>REDES LIBRE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>230118</td>
+                <td>SWITCH  TPLINK TL-SG3452</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA 1X10</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>230119</td>
+                <td>SWITCH TPLINK TL-SG1048</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>TALENTO HUMANO</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>230121</td>
+                <td>SWITCH TPLINK TL-SG1048</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>EDUCACION</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>230122</td>
+                <td>SWITCH TPLINK TL-SG1048</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>INFRAESTRUCTURA</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>2376</td>
+                <td>MONITOR DELL</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>2379</td>
+                <td>MONITOR   MODELO: DELL  C/NEGRO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>240010</td>
+                <td>EQUIPO CLON </td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td></td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>240011</td>
+                <td>EQUIPO CLON </td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td></td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>240020</td>
+                <td>EQUIPO CLON </td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td></td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>240021</td>
+                <td>EQUIPO CLON </td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION GENERAL</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>240028</td>
+                <td>SWITCH MARCA TP- LINK, MODELO TL- SG 1024, S/: 118A4401907</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>240066</td>
+                <td>MONITOR LG</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td></td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>240067</td>
+                <td>MONITOR LG</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td></td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>240072</td>
+                <td>MONITOR LG</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION GENERAL</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>240073</td>
+                <td>MONITOR LG</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td></td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>265569</td>
+                <td>MESA  COLOR BEIGE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>26589</td>
+                <td>CENTRAL TELEFONICA, MARCA PANASONIC, MODELO 308 ESAPHONE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>2691</td>
+                <td>MONITOR DELL</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>29266</td>
+                <td>CENTRAL TELEFONICA, MARCA PANASONIC, MODELO 616 ESAHONE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>36118</td>
+                <td>ASIENTO MODULAR 2 PUESTOS MARRON</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION RECEPCION</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>45270</td>
+                <td>SILLA DE OFICINA COLOR NEGRO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DESARROLLO WEB</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>46098</td>
+                <td>TELEVISOR MARCA: PANASONIC DE 21&quot; MOD: CT214BR S/: 6622917</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>4817</td>
+                <td>PIZARRA MAGNETICA COLOR BLANCO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>58963</td>
+                <td>SILLA SECRETARIAL TAPIZADA EN TELA C/AZUL</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>780</td>
+                <td>PIZARRA MAGNETICA COLOR BLANCO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>83855</td>
+                <td>REGULADOR DE VOLTAJE COLOR NEGRO MARCA TONAL</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>8845</td>
+                <td>PIZARRA ACRILICA</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>ILEGIBLE</td>
+                <td>PUESTO DE TRABAJO EN FORMICA CON FLIPPER COLOR MADERA</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION RRHH</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>ILEGIBLE</td>
+                <td>PAPELERA DE METAL</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION RRHH</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>s</td>
+                <td>s</td>
+                <td>DIRECCIÓN GENERAL DE CONTABILIDAD</td>
+                <td>s</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td>s</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>REGULADOR MARCA: NUSE SERIAL 0752001389</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>CPU MARCA: VIT, MODELO: 2600 (SERIAL 31B3L0972)</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>MONITOR VIT TFT19W8OPS SERIAL BA000214</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>CPU VIT MODELO 2600-II SERIAL 103098</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO IP POLYCOM MOD IP 650SIP SERIAL 0004F238E143</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO IP POLYCOM MOD IP 650SIP SERIAL 0004F238E084</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO IP POLYCOM MOD IP 650SIP SERIAL 0004F238E144</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO IP POLYCOM MOD IP 650SIP SERIAL 0004F238E0B3</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO IP POLYCOM MOD IP 650SIP SERIAL 0004F238E2A0</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO IP POLYCOM MOD IP 650SIP SERIAL 0004F238DFC1</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO IP POLYCOM MOD IP 650SIP SERIAL 0004F238E290</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO IP POLYCOM MOD IP 650SIP SERIAL 0004F238E383</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO IP POLYCOM MOD IP 650SIP SERIAL 0004F238E47D</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO IP POLYCOM MOD IP 650SIP SERIAL 0004F238E236</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>MESA DE HIERRO Y FORMICA COLOR GRIS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SOPORTE</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO IP POLYCOM MOD IP 650SIP SERIAL 0004F238DFAF</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO IP POLYCOM MOD IP 650SIP SERIAL 0004F238DFCC</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO IP POLYCOM MOD IP 650SIP SERIAL 0004F238E0FD</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO IP POLYCOM MOD IP 650SIP SERIAL 0004F238E212</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO IP POLYCOM MOD IP 650SIP SERIAL 0004F238DFA1</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SEGURIDAD CIUDADANA</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO IP POLYCOM MOD IP 650SIP SERIAL 0004F238E340</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>TECNOLOGIA</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO IP POLYCOM MOD IP 650SIP SERIAL 0004F238F994</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SEGURIDAD INTEGRAL</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO IP POLYCOM MOD IP 650SIP SERIAL 0004F238E4DD</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO IP POLYCOM MOD IP 650SIP SERIAL 0004F238F9A2</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>TESORERIA</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO IP POLYCOM MOD IP 650SIP SERIAL 0004F238E2A7</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>ADMINISTRACION</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO IP POLYCOM MOD IP 650SIP SERIAL 0004F238DF7E</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>PLANIFICACION Y PRESUPUESTO</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO IP POLYCOM MOD IP 650SIP SERIAL 0004F238E2B7</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>TALENTO HUMANO</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO IP POLYCOM MOD IP 650SIP SERIAL 0004F238E3DE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SECRETARIA DE GOBIERNO</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO IP YEALINK VP-2009 F300586</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SGG</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>PUESTO DE TRABAJO EN FORMICA C/BEIGE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO IP YEALINK VP-2009 F300585</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SGG</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO IP YEALINK VP-2009 F300583</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SGG</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO IP YEALINK VP-2009 F300805</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>VIAS ARAGUA</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO IP YEALINK VP-2009 F300609</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>VIAS ARAGUA</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SILLA SECRETARIAL TAPIZADA EN TELA C/AZUL</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO IP YEALINK VP-2009 F300763</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>VIAS ARAGUA</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>CORNETAS LENOVO NRO: 41A5334</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO IP YEALINK VP-2009 F300783</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>PUESTOS D TRABAJO (TABLA)EN FORMICA COLOR BEIGE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO IP YEALINK VP-2009 F300553</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO  PANASONIC TS500LX</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO IP YEALINK VP-2009 F300552</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO IP YEALINK VP-2009 F300806</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO IP YEALINK VP-2009 F300765</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO IP YEALINK VP-2009 F300607</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>ESCALERA MEDIANA</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO IP YEALINK VP-2009 F300784</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO IP YEALINK VP-2009 F300610</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO IP YEALINK VP-2009 F300554</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO IP YEALINK VP-2009 F300584</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SERVIDOR EXO 24020006384</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SERVIDOR EXO 23002005536</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>AIRE ACONDICIONADO HAIER 18K BTU AA8YX2E063GXBH9UO133</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>AIRE ACONDICIONADO WESTINGHOUSE 36K BTU FW100200035</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH TRENDNET TEG448WS SERIAL 44805926</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>ROUTER ALCATEL LUCENT 7250SAS SERIAL 08490113</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>ROUTER HUAWEI AR2921 SERIAL AC128D4A</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH CISCO SG352 SERIAL 70J0110</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH MARCA LAMPRO, MODELO LP- SW 1600, S/: SW160011A0921</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>UPS Tripp Lite SMART 750 SERIAL 67500159</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH MARCA CISCO, MODELO SG 300- 52 S/: DNI173902GE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>UPS Tripp Lite VP MODELO 240 SERIAL 9700143</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH MARCA D- LINK, MODELO DEST 1024D S/: F30F264001194</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>Kvm Switch TRIPP LITE 9827ACPCB715100412</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>Kvm Switch TRIPP LITE 232BATCB831400086</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>DVR</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH CISCO SG352 SERIAL 232589</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SERVIDOR HP A01 SERIAL MXQ1130J1B</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES / SISEGA</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH MARCA TP- LINK, MODELO TL- SG 2424, S/: 6466B35017B7</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SERVIDOR DELL SC1425 SERIAL 226ZSB1</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES /RESPALDO</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>Kvm Switch TRIPP LITE S07828440022</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td> SWITCH MARCA CISCO, MODELO SG 300- 52 S/: DNI173902J4</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SERVIDOR LENOVO TS150 SERIAL DNJ0741AU</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES / BK</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SERVIDOR HP ML 150 G9 SERIAL 253700CL</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES / CORREO</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>Archivo Vertical 5 peldaños</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>Archivo Vertical 5 peldaños</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH MARCA TRENDNET, MODELO TEG- 448WS  S/: CA09264813521</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SERVIDOR HP PROLIANT DL 385 P SERIAL 7849460</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH MARCA LAMPRO, MODELO LP- SW 1600, S/: SW160011A00608</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SERVIDOR HP PROLIANT DL 385 P SERIAL 798282118</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SERVIDOR HP PROLIANT DL 385 P SERIAL 78833713</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH MARCA LAMPRO, MODELO LP- SW 1600 S/: SW160011A00607</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SERVIDOR HP PROLIANT DL 385 P SERIAL 2M41340BFV</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH MARCA CISCO, MODELO SG 300- 52 S/: DNI173902KJ</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SERVIDOR IBM 3650 SERIAL 4269721</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SERVIDOR IBM SYSTEM 3650 SERIAL KQBCNGF</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH MARCA CISCO, MODELO SG 300- 52 S/: DNI170J0110</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH MARCA TRENDNET, MODELO TEG- 448WS S/: CA09264813515</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>DTU PAIRGAIN HDSL SERIAL D1969</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>DTU PAIRGAIN HDSL SERIAL 22517066</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH MARCA HP, MODELO V1905- 48, S/: CN33BWQ101</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH TRENDNET TE100S G24 SERIAL CA1132S401525</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>SALA SERVIDORES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH MARCA CISCO, MODELO SG 300- 52 S/: DNI173902KJ</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH MARCA D- LINK, MODELO DEST 3226L, S/: 0015E9AB3567</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH MARCA D- LINK, MODELO DEST 1024D, S/: F30F264001127</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH MARCA TRENDNET, MODELO TEG- 448WS, S/: CA09044805928</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH MARCA TP- LINK, MODELO TL- SG 1024</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH MARCA D- LINK, MODELO DEST 1024D, S/: 1- 30F234000199</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH MARCA D- LINK, MODELO DEST 1024D S/: F30F264000158</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO ZTE MODELO WP228 SERIAL 179867</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO  FALTA CARGADOR Y BATERIA</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH MARCA NETCORE, MODELO NS105, S/: 105F110403335</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO ZTE MODELO WP228 SERIAL 181242</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO  FALTA CARGADOR Y BATERIA</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH MARCA INTELLINET, MODELO G8D08P, S/: 17E2360036</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO ZTE MODELO WP228 SERIAL 201545</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO  FALTA CARGADOR Y BATERIA</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO ZTE MODELO WP228 SERIAL 427981</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO  FALTA CARGADOR Y BATERIA</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>CONMUTADOR , MARCA ALCATEL, MODELO LUCENT 7250 SAS, S/: TELC8808490113</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO ZTE MODELO WP228 SERIAL 4FE189</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO  FALTA CARGADOR Y BATERIA</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>ROUTER MARCA HUAWEI, MODELO QUIDWAY AR2921, S/: 3CE5A6128D4A</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO ZTE MODELO WP228 SERIAL 4FE1EB</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO  FALTA CARGADOR Y BATERIA</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH MARCA CISCO, MODELO SG 300- 52, S/: 010789836032589</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td> REDES </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO ZTE MODELO WP228 SERIAL 4FE39C</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO  FALTA CARGADOR Y BATERIA</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO ZTE MODELO WP228 SERIAL 058D75</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO  FALTA CARGADOR Y BATERIA</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO ZTE MODELO WP228 SERIAL 4FE3C5</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO  FALTA CARGADOR Y BATERIA</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO ZTE MODELO WP228 SERIAL 4F8E1E</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO  FALTA CARGADOR Y BATERIA</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO AXESSTEL PXA20 SERIAL 6904</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO  FALTA CARGADOR Y BATERIA</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO AXESSTEL PXA20 SERIAL SIN SERIAL SIN BIEN</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO  FALTA CARGADOR Y BATERIA</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO AXESSTEL PXA20 SERIAL SIN SERIAL SIN BIEN</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO  FALTA CARGADOR Y BATERIA</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO AXESSTEL PXA20 SERIAL SIN SERIAL SIN BIEN</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO  FALTA CARGADOR Y BATERIA</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO AXESSTEL PXA20 SERIAL 8808</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO  FALTA CARGADOR Y BATERIA</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO AXESSTEL PXA20 SERIAL 8975</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO  FALTA CARGADOR Y BATERIA</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO AXESSTEL PXA20 SERIAL 8589</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO  FALTA CARGADOR Y BATERIA</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO PANASONIC MODELO KXT2310 SERIAL 6036</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO  FALTA CARGADOR Y BATERIA</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO HUAWEI F201 SERIAL 2971</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO  FALTA CARGADOR Y BATERIA</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO HUAWEI F201  SIN SERIAL</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO  FALTA CARGADOR Y BATERIA</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO PANASONIC MODELO KXT2310 SERIAL 3124</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO  FALTA CARGADOR Y BATERIA</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO PANASONIC MODELO KXT2310 SERIAL 8355</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO  FALTA CARGADOR Y BATERIA</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO LG LSP400 SERIAL 0559</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO  FALTA CARGADOR Y BATERIA</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO AXESSTEL PX120N SERIAL 5311</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO  FALTA CARGADOR Y BATERIA</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO AXESSTEL PX120N SERIAL 4C84</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO  FALTA CARGADOR Y BATERIA</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO AXESSTEL PX120N SERIAL 2399</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO  FALTA CARGADOR Y BATERIA</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO HUAWEI F201BE 3050904</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO  FALTA CARGADOR Y BATERIA</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO NIPON DJ SIN SERIAL </td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO  FALTA CARGADOR Y BATERIA</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO AXESSTEL PX120N SERIAL 0516</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO  FALTA CARGADOR Y BATERIA</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO AXESSTEL PX120N SERIAL 8928</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO  FALTA CARGADOR Y BATERIA</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO AXESSTEL PXQ20F SERIAL 88GV </td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO  FALTA CARGADOR Y BATERIA</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO AXESSTEL PX120N SERIAL 2609</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO  FALTA CARGADOR Y BATERIA</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO AXESSTEL PX120N SIN SERIAL</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO  FALTA CARGADOR Y BATERIA</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO AXESSTEL PX120N SERIAL 9113</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO  FALTA CARGADOR Y BATERIA</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO HUAWEI F201 SERIAL 3096</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO  FALTA CARGADOR Y BATERIA</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO HUAWEI F201 SERIAL 3025</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO  FALTA CARGADOR Y BATERIA</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO HUAWEI F201 SERIAL 3019</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO  FALTA CARGADOR Y BATERIA</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TELEFONO HUAWEI F201 SERIAL 3017</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO  FALTA CARGADOR Y BATERIA</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>MONITOR COMPAQ  CNN312010G</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>MONITOR LG 1177WSB-PF</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>MONITOR VIT 6389B002787</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>MONITOR LG 1177WSB-PF</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>MONITOR AOC S/N 124355</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>MONITOR AOC S/N 124353</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>MONITOR SAMSUNG S/N 151631</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>MONITOR IBM S/N 138185</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>PAPELERA DE PLATICO COLOR NEGRO</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DESARROLLO WEB</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>MONITOR IBM S/N 135077</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>MONITOR LG S/N 143099</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>MONITOR SAMSUNG 143170</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>MONITOR IBM 138008</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>AIRE ACONDICIONADO PORTATIL  GPLUS - MOD: GP-P14A0 - SERIAL: D205011060112111200058</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>OFICINA DGTSP RRHH</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>MONITOR IBM 138049</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>MONITOR IBM 138116</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>MONITOR IBM 138200</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>MONITOR IBM 152089</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>MONITOR IBM 138104</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>GABINETE 2 PUERTAS COLOR AZUL</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>MONITOR SAMSUNG 143254</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>MONITOR SAMSUNG 143118</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>MONITOR SAMSUNG 143230</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>MONITOR IBM 138122</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH LAMPRO LP-SW2400</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>ROUTER CISCO MODELO 2800 SERIES BE 204096</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>CASE VIT SERIAL A000031589</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO SOLO CASE NO COMPONENTES</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>CASE VIT SERIAL A000070388</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO SOLO CASE NO COMPONENTES</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>CASE VIT SERIAL A000036014</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO SOLO CASE NO COMPONENTES</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>CASE VIT SERIAL A000031195</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO SOLO CASE NO COMPONENTES</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>CASE CLON BE 134352</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO SOLO CASE NO COMPONENTES</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>CASE VIT SERIAL A000036028</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO SOLO CASE NO COMPONENTES</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>CASE VIT SERIAL A000037775</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO SOLO CASE NO COMPONENTES</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>CASE GATEWAY BE GP7-450</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO SOLO CASE NO COMPONENTES</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SERVIDOR DELL BTX3791</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SERVIDOR DELL BE204100</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SERVIDOR IBM SERIAL KQH3147</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>CENTRAL TELEFÓNICA PANASONIC TDA100</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>MONITOR AOC </td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>NEVERA EJECUTIVA MARCA PREMIER SERIAL AE22075268B1015134HL074108-03092</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION/DEPOSITO </td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>MONITOR AOC MODELO 9GLR BE 124467</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>AIRE ACONDICIONADO PORTATIL MARCA GPLUS MOD  GP 14A0 S:/D20501203112110200286</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION DEPOSITO</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>MONITOR VIT COLOR NEGRO BE  213353</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>MONITOR VIT COLOR NEGRO BE 213416</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>MONITOR VIT COLOR NEGRO S/N</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>MONITOR DELL BE 2691</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>MONITOR VIT COLOR NEGRO BE 314160</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>MONITOR VIT COLOR NEGRO BE 213571</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>MONITOR VIT COLOR NEGRO BE 213177</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>CPU VIT SERIAL 103098</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO SOLO CASE SIN COMPONENTES</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TECLADO VIT</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO TECLAS NO RESPONDEN</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>CPU VIT SERIAL A000797499 BE 223828</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SILLA SECRETARIAL COLOR AZUL OSCURO BE 133590</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>Deposito</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO BASE FRACTURADA</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH TRENDNET  TEG448WS SERIAL CA09264813516</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>REDES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>ROUTER CISCO 3750-X BE 131081</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>REDES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH CISCO SG300-52 SERIAL DNI170100U S/BE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>REDES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>ESTANTE VERTICAL BEIGE CLARO 2 PELDAÑOS</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION RECEPCION</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>ROUTER CISCO 1760 SERIAL 246110095A S/BE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>REDES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>ROUTER CISCO 2801 FTX1123Z0W3 S/BE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>REDES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>ROUTER 2610 SERIAL JMX0510K1V2 S/BE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>REDES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH 4228G SERIAL LZ1B5VE30FBE0 S/BE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>REDES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH MARCA TRENDNET, MODELO TEG- 448WS S/: CA09264813522 S/BE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>REDES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH MARCA TRENDNET, MODELO TEG- 448WS S/: CA09264813523 S/BE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>REDES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>ESCRITORIO OVALADO DE MADERA CON PATAS DE METAL GRISES</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION RRHH</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH MARCA TRENDNET, MODELO TEG- 448WS S/: CA09264813516 S/BE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>REDES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>ESCRITORIO RECTANGULAR  BEIGE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION RRHH</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH MARCA D- LINK, MODELO DES 3226L S/: DR99164000162 BE 136655</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>REDES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH MARCA D- LINK, MODELO DES 3226L S/: DR99164000164 BE 136658</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>REDES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH MARCA D- LINK, MODELO DEST 3226L S/: DR99164000161 BE 136670</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>REDES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH MARCA D- LINK, MODELO DEST 1024D S/: F30F264001036 BE 136662</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>REDES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH MARCA D- LINK, MODELO DEST 1024D S/: F30F264001040 BE 136662</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>REDES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH MARCA D- LINK, MODELO DEST 1024D S/: F30F264001086 BE 142943</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>REDES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TECLADO MARCA HP S/: BBAVL0MVB0Z2W9</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION RRHH</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH MARCA D- LINK, MODELO DEST 1024D S/: F30F264001193 BE 13662</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>REDES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>TECLADO MARCA MARCA VIT S/: KB0903Q43027A</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION RRHH</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH MARCA D- LINK, MODELO DEST 1024D S/: F30F264001191 142943</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>REDES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>CONMUTADOR MARCA CISCO, MODELO CATALYST 3750- X SERIES, S/: 131081</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>REDES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SWITCH LANPRO SW2400 S/BE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>REDES</td> <!-- Añadir Unidad Adscrita -->
+                <td>Desincorporar</td>
+                <td>INOPERATIVO NO ENCIENDE</td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>MESA DE TRABAJO RECTANGULAR EN FORMICA BEIGE</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION RRHH</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr><tr>
+                <td>S/BE</td>
+                <td>SILLA SECRETARIAL TAPIZADA COLOR AZUL</td>
+                <td>DIRECCIÓN GENERAL DE TECNOLOGÍA Y SISTEMATIZACIÓN DE PROCESOS</td>
+                <td>DIRECCION RRHH</td> <!-- Añadir Unidad Adscrita -->
+                <td>Operativo</td>
+                <td></td>
+            </tr></table>

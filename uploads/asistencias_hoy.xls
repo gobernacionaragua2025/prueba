@@ -1,0 +1,12 @@
+<table border='1'><tr>
+            <th>#</th>
+            <th>Nombre</th>
+            <th>Apellido</th>
+            <th>Cedula</th>
+            <th>Numero de Telefono</th>
+            <th>Direccion</th>
+            <th>Departamento a Visitar</th>
+            <th>Genero</th> <!-- Nueva columna para Género -->
+            <th>Fecha Entrada</th>
+            <th>Fecha Salida</th>
+          </tr></table>
